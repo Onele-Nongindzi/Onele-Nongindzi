@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to work on We
 ## 🌐 Find Me Online
 
 - LinkedIn: www.linkedin.com/in/onele-nongindzi-a27683321
-- Website/Blog: [Your personal website or blog URL, if you have one]
+- Website/Blog: https://onele-nongindzi.github.io/portfolio/
 - Email: onelenongindzi@gmail.com
 ## 📫 How to reach me
 
